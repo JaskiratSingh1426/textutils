@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JaskiratSingh1426/textutils.git/static/css/main.2af1c858.css",
+    "main.js": "/JaskiratSingh1426/textutils.git/static/js/main.47b48d19.js",
+    "static/js/592.7f72a991.chunk.js": "/JaskiratSingh1426/textutils.git/static/js/592.7f72a991.chunk.js",
+    "index.html": "/JaskiratSingh1426/textutils.git/index.html",
+    "main.2af1c858.css.map": "/JaskiratSingh1426/textutils.git/static/css/main.2af1c858.css.map",
+    "main.47b48d19.js.map": "/JaskiratSingh1426/textutils.git/static/js/main.47b48d19.js.map",
+    "592.7f72a991.chunk.js.map": "/JaskiratSingh1426/textutils.git/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2af1c858.css",
+    "static/js/main.47b48d19.js"
+  ]
+}
